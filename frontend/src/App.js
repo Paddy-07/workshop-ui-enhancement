@@ -1,3 +1,4 @@
+// Improved UI structure
 import "./App.css";
 
 function App() {
