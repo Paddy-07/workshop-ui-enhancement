@@ -39,11 +39,13 @@ body {
 }
 
 .login-card {
-  background: white;
+  width: 350px;
+  margin: auto;
+  margin-top: 80px;
   padding: 30px;
   border-radius: 12px;
-  width: 320px;
-  box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.2);
+  background: white;
+  box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.2);
   text-align: center;
 }
 
