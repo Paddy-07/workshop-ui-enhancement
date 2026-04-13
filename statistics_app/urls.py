@@ -1,3 +1,4 @@
+# Placeholder for statistics feature enhancement
 from django.urls import path
 from statistics_app import views
 
