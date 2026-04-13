@@ -1,3 +1,4 @@
+# Fetch workshop data for display
 from django.contrib import messages
 from django.db.models import Q
 from django.forms import inlineformset_factory, model_to_dict
